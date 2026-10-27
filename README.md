@@ -41,7 +41,3 @@ Click on a module name to see its folder and specification:
 The diagram below shows how the modules connect to form the single-cycle processor. It is the architectural source of truth for how modules integrate with each other. Your ports must stay consistent with it.
 
 ![RISC-V-Single-Cycle.png](https://i.postimg.cc/8C61F1RQ/RISC-V-Single-Cycle.png)
-
-## Submission Workflow
-
-Submit your repository URL for this checkpoint through the course Google Form. The assignment handout explains how to configure and verify your repository.
